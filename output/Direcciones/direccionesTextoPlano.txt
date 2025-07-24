@@ -1,0 +1,300 @@
+Original: CRA70#26A-33,Medellín,Antioquia
+  - Carrera70#26A33,Medellín,Antioquia
+  - Carrera70Nro26A-33,Medellín,Antioquia
+  - Carrera70Numero26A-33,Medellín,Antioquia
+  - Carrera70Num26A-33,Medellín,Antioquia
+  - Kra70#26A-33,Medellín,Antioquia
+  - Calle70#26A-33,Medellín,Antioquia
+  - Transversal70#26A-33,Medellín,Antioquia
+  - Circular70#26A-33,Medellín,Antioquia
+
+Original: CL45#80-22,Bogotá,Cundinamarca
+  - Calle45#8022,Bogotá,Cundinamarca
+  - Calle45Nro80-22,Bogotá,Cundinamarca
+  - Calle45Numero80-22,Bogotá,Cundinamarca
+  - Calle45Num80-22,Bogotá,Cundinamarca
+  - Carrera45#80-22,Bogotá,Cundinamarca
+  - Circular45#80-22,Bogotá,Cundinamarca
+  - Avenida45#80-22,Bogotá,Cundinamarca
+  - Transversal45#80-22,Bogotá,Cundinamarca
+
+Original: AV30#15-45,Cali,Valle del Cauca
+  - Avenida30#1545,Cali,Valle del Cauca
+  - Avenida30Nro15-45,Cali,Valle del Cauca
+  - Avenida30Numero15-45,Cali,Valle del Cauca
+  - Avenida30Num15-45,Cali,Valle del Cauca
+  - Carrera30#15-45,Cali,Valle del Cauca
+  - Calle30#15-45,Cali,Valle del Cauca
+  - Circular30#15-45,Cali,Valle del Cauca
+  - Transversal30#15-45,Cali,Valle del Cauca
+
+Original: CRA50#12-08,Barranquilla,Atlántico
+  - Carrera50#1208,Barranquilla,Atlántico
+  - Carrera50Nro12-08,Barranquilla,Atlántico
+  - Carrera50Numero12-08,Barranquilla,Atlántico
+  - Carrera50Num12-08,Barranquilla,Atlántico
+  - Kra50#12-08,Barranquilla,Atlántico
+  - Calle50#12-08,Barranquilla,Atlántico
+  - Circular50#12-08,Barranquilla,Atlántico
+  - Transversal50#12-08,Barranquilla,Atlántico
+
+Original: CL10#5-21,Cartagena,Bolívar
+  - Calle10#521,Cartagena,Bolívar
+  - Calle10Nro5-21,Cartagena,Bolívar
+  - Calle10Numero5-21,Cartagena,Bolívar
+  - Calle10Num5-21,Cartagena,Bolívar
+  - Carrera10#5-21,Cartagena,Bolívar
+  - Circular10#5-21,Cartagena,Bolívar
+  - Avenida10#5-21,Cartagena,Bolívar
+  - Transversal10#5-21,Cartagena,Bolívar
+
+Original: CRA15#100-32,Bogotá,Cundinamarca
+  - Carrera15#10032,Bogotá,Cundinamarca
+  - Carrera15Nro100-32,Bogotá,Cundinamarca
+  - Carrera15Numero100-32,Bogotá,Cundinamarca
+  - Carrera15Num100-32,Bogotá,Cundinamarca
+  - Kra15#100-32,Bogotá,Cundinamarca
+  - Calle15#100-32,Bogotá,Cundinamarca
+  - Circular15#100-32,Bogotá,Cundinamarca
+  - Transversal15#100-32,Bogotá,Cundinamarca
+
+Original: AV68#80-25,Bogotá,Cundinamarca
+  - Avenida68#8025,Bogotá,Cundinamarca
+  - Avenida68Nro80-25,Bogotá,Cundinamarca
+  - Avenida68Numero80-25,Bogotá,Cundinamarca
+  - Avenida68Num80-25,Bogotá,Cundinamarca
+  - Carrera68#80-25,Bogotá,Cundinamarca
+  - Calle68#80-25,Bogotá,Cundinamarca
+  - Circular68#80-25,Bogotá,Cundinamarca
+  - Transversal68#80-25,Bogotá,Cundinamarca
+
+Original: CRA7#72-20,Bogotá,Cundinamarca
+  - Carrera7#7220,Bogotá,Cundinamarca
+  - Carrera7Nro72-20,Bogotá,Cundinamarca
+  - Carrera7Numero72-20,Bogotá,Cundinamarca
+  - Carrera7Num72-20,Bogotá,Cundinamarca
+  - Kra7#72-20,Bogotá,Cundinamarca
+  - Calle7#72-20,Bogotá,Cundinamarca
+  - Circular7#72-20,Bogotá,Cundinamarca
+  - Transversal7#72-20,Bogotá,Cundinamarca
+
+Original: CL52#73-14,Medellín,Antioquia
+  - Calle52#7314,Medellín,Antioquia
+  - Calle52Nro73-14,Medellín,Antioquia
+  - Calle52Numero73-14,Medellín,Antioquia
+  - Calle52Num73-14,Medellín,Antioquia
+  - Carrera52#73-14,Medellín,Antioquia
+  - Circular52#73-14,Medellín,Antioquia
+  - Avenida52#73-14,Medellín,Antioquia
+  - Transversal52#73-14,Medellín,Antioquia
+
+Original: CRA9#23-11,Bucaramanga,Santander
+  - Carrera9#2311,Bucaramanga,Santander
+  - Carrera9Nro23-11,Bucaramanga,Santander
+  - Carrera9Numero23-11,Bucaramanga,Santander
+  - Carrera9Num23-11,Bucaramanga,Santander
+  - Kra9#23-11,Bucaramanga,Santander
+  - Calle9#23-11,Bucaramanga,Santander
+  - Circular9#23-11,Bucaramanga,Santander
+  - Transversal9#23-11,Bucaramanga,Santander
+
+Original: CRA38#16-24,Pereira,Risaralda
+  - Carrera38#1624,Pereira,Risaralda
+  - Carrera38Nro16-24,Pereira,Risaralda
+  - Carrera38Numero16-24,Pereira,Risaralda
+  - Carrera38Num16-24,Pereira,Risaralda
+  - Kra38#16-24,Pereira,Risaralda
+  - Calle38#16-24,Pereira,Risaralda
+  - Circular38#16-24,Pereira,Risaralda
+  - Transversal38#16-24,Pereira,Risaralda
+
+Original: CL19#7-12,Manizales,Caldas
+  - Calle19#712,Manizales,Caldas
+  - Calle19Nro7-12,Manizales,Caldas
+  - Calle19Numero7-12,Manizales,Caldas
+  - Calle19Num7-12,Manizales,Caldas
+  - Carrera19#7-12,Manizales,Caldas
+  - Circular19#7-12,Manizales,Caldas
+  - Avenida19#7-12,Manizales,Caldas
+  - Transversal19#7-12,Manizales,Caldas
+
+Original: CRA5#45-90,SantaMarta,Magdalena
+  - Carrera5#4590,SantaMarta,Magdalena
+  - Carrera5Nro45-90,SantaMarta,Magdalena
+  - Carrera5Numero45-90,SantaMarta,Magdalena
+  - Carrera5Num45-90,SantaMarta,Magdalena
+  - Kra5#45-90,SantaMarta,Magdalena
+  - Calle5#45-90,SantaMarta,Magdalena
+  - Circular5#45-90,SantaMarta,Magdalena
+  - Transversal5#45-90,SantaMarta,Magdalena
+
+Original: AV4#20-33,Pasto,Nariño
+  - Avenida4#2033,Pasto,Nariño
+  - Avenida4Nro20-33,Pasto,Nariño
+  - Avenida4Numero20-33,Pasto,Nariño
+  - Avenida4Num20-33,Pasto,Nariño
+  - Carrera4#20-33,Pasto,Nariño
+  - Calle4#20-33,Pasto,Nariño
+  - Circular4#20-33,Pasto,Nariño
+  - Transversal4#20-33,Pasto,Nariño
+
+Original: CRA21#14-18,Ibagué,Tolima
+  - Carrera21#1418,Ibagué,Tolima
+  - Carrera21Nro14-18,Ibagué,Tolima
+  - Carrera21Numero14-18,Ibagué,Tolima
+  - Carrera21Num14-18,Ibagué,Tolima
+  - Kra21#14-18,Ibagué,Tolima
+  - Calle21#14-18,Ibagué,Tolima
+  - Circular21#14-18,Ibagué,Tolima
+  - Transversal21#14-18,Ibagué,Tolima
+
+Original: CL12#8-55,Montería,Córdoba
+  - Calle12#855,Montería,Córdoba
+  - Calle12Nro8-55,Montería,Córdoba
+  - Calle12Numero8-55,Montería,Córdoba
+  - Calle12Num8-55,Montería,Córdoba
+  - Carrera12#8-55,Montería,Córdoba
+  - Circular12#8-55,Montería,Córdoba
+  - Avenida12#8-55,Montería,Córdoba
+  - Transversal12#8-55,Montería,Córdoba
+
+Original: CRA27#9-41,Neiva,Huila
+  - Carrera27#941,Neiva,Huila
+  - Carrera27Nro9-41,Neiva,Huila
+  - Carrera27Numero9-41,Neiva,Huila
+  - Carrera27Num9-41,Neiva,Huila
+  - Kra27#9-41,Neiva,Huila
+  - Calle27#9-41,Neiva,Huila
+  - Circular27#9-41,Neiva,Huila
+  - Transversal27#9-41,Neiva,Huila
+
+Original: AV68#63-00,Bogotá,Cundinamarca
+  - Avenida68#6300,Bogotá,Cundinamarca
+  - Avenida68Nro63-00,Bogotá,Cundinamarca
+  - Avenida68Numero63-00,Bogotá,Cundinamarca
+  - Avenida68Num63-00,Bogotá,Cundinamarca
+  - Carrera68#63-00,Bogotá,Cundinamarca
+  - Calle68#63-00,Bogotá,Cundinamarca
+  - Circular68#63-00,Bogotá,Cundinamarca
+  - Transversal68#63-00,Bogotá,Cundinamarca
+
+Original: CRA10#23-05,Tunja,Boyacá
+  - Carrera10#2305,Tunja,Boyacá
+  - Carrera10Nro23-05,Tunja,Boyacá
+  - Carrera10Numero23-05,Tunja,Boyacá
+  - Carrera10Num23-05,Tunja,Boyacá
+  - Kra10#23-05,Tunja,Boyacá
+  - Calle10#23-05,Tunja,Boyacá
+  - Circular10#23-05,Tunja,Boyacá
+  - Transversal10#23-05,Tunja,Boyacá
+
+Original: CL7#34-22,Villavicencio,Meta
+  - Calle7#3422,Villavicencio,Meta
+  - Calle7Nro34-22,Villavicencio,Meta
+  - Calle7Numero34-22,Villavicencio,Meta
+  - Calle7Num34-22,Villavicencio,Meta
+  - Carrera7#34-22,Villavicencio,Meta
+  - Circular7#34-22,Villavicencio,Meta
+  - Avenida7#34-22,Villavicencio,Meta
+  - Transversal7#34-22,Villavicencio,Meta
+
+Original: CRA18#12-08,Popayán,Cauca
+  - Carrera18#1208,Popayán,Cauca
+  - Carrera18Nro12-08,Popayán,Cauca
+  - Carrera18Numero12-08,Popayán,Cauca
+  - Carrera18Num12-08,Popayán,Cauca
+  - Kra18#12-08,Popayán,Cauca
+  - Calle18#12-08,Popayán,Cauca
+  - Circular18#12-08,Popayán,Cauca
+  - Transversal18#12-08,Popayán,Cauca
+
+Original: CL8#14-33,Cúcuta,Norte de Santander
+  - Calle8#1433,Cúcuta,Norte de Santander
+  - Calle8Nro14-33,Cúcuta,Norte de Santander
+  - Calle8Numero14-33,Cúcuta,Norte de Santander
+  - Calle8Num14-33,Cúcuta,Norte de Santander
+  - Carrera8#14-33,Cúcuta,Norte de Santander
+  - Circular8#14-33,Cúcuta,Norte de Santander
+  - Avenida8#14-33,Cúcuta,Norte de Santander
+  - Transversal8#14-33,Cúcuta,Norte de Santander
+
+Original: CRA44#18-10,Valledupar,Cesar
+  - Carrera44#1810,Valledupar,Cesar
+  - Carrera44Nro18-10,Valledupar,Cesar
+  - Carrera44Numero18-10,Valledupar,Cesar
+  - Carrera44Num18-10,Valledupar,Cesar
+  - Kra44#18-10,Valledupar,Cesar
+  - Calle44#18-10,Valledupar,Cesar
+  - Circular44#18-10,Valledupar,Cesar
+  - Transversal44#18-10,Valledupar,Cesar
+
+Original: AV6#10-75,Armenia,Quindío
+  - Avenida6#1075,Armenia,Quindío
+  - Avenida6Nro10-75,Armenia,Quindío
+  - Avenida6Numero10-75,Armenia,Quindío
+  - Avenida6Num10-75,Armenia,Quindío
+  - Carrera6#10-75,Armenia,Quindío
+  - Calle6#10-75,Armenia,Quindío
+  - Circular6#10-75,Armenia,Quindío
+  - Transversal6#10-75,Armenia,Quindío
+
+Original: CRA26#72-15,Bogotá,Cundinamarca
+  - Carrera26#7215,Bogotá,Cundinamarca
+  - Carrera26Nro72-15,Bogotá,Cundinamarca
+  - Carrera26Numero72-15,Bogotá,Cundinamarca
+  - Carrera26Num72-15,Bogotá,Cundinamarca
+  - Kra26#72-15,Bogotá,Cundinamarca
+  - Calle26#72-15,Bogotá,Cundinamarca
+  - Circular26#72-15,Bogotá,Cundinamarca
+  - Transversal26#72-15,Bogotá,Cundinamarca
+
+Original: CL50#45-60,Medellín,Antioquia
+  - Calle50#4560,Medellín,Antioquia
+  - Calle50Nro45-60,Medellín,Antioquia
+  - Calle50Numero45-60,Medellín,Antioquia
+  - Calle50Num45-60,Medellín,Antioquia
+  - Carrera50#45-60,Medellín,Antioquia
+  - Circular50#45-60,Medellín,Antioquia
+  - Avenida50#45-60,Medellín,Antioquia
+  - Transversal50#45-60,Medellín,Antioquia
+
+Original: CRA9#18-21,Yopal,Casanare
+  - Carrera9#1821,Yopal,Casanare
+  - Carrera9Nro18-21,Yopal,Casanare
+  - Carrera9Numero18-21,Yopal,Casanare
+  - Carrera9Num18-21,Yopal,Casanare
+  - Kra9#18-21,Yopal,Casanare
+  - Calle9#18-21,Yopal,Casanare
+  - Circular9#18-21,Yopal,Casanare
+  - Transversal9#18-21,Yopal,Casanare
+
+Original: CL25#16-04,Riohacha,La Guajira
+  - Calle25#1604,Riohacha,La Guajira
+  - Calle25Nro16-04,Riohacha,LaGuajira
+  - Calle25Numero16-04,Riohacha,LaGuajira
+  - Calle25Num16-04,Riohacha,LaGuajira
+  - Carrera25#16-04,Riohacha,LaGuajira
+  - Circular25#16-04,Riohacha,LaGuajira
+  - Avenida25#16-04,Riohacha,LaGuajira
+  - Transversal25#16-04,Riohacha,LaGuajira
+
+Original: CRA11#9-19,Sincelejo,Sucre
+  - Carrera11#919,Sincelejo,Sucre
+  - Carrera11Nro9-19,Sincelejo,Sucre
+  - Carrera11Numero9-19,Sincelejo,Sucre
+  - Carrera11Num9-19,Sincelejo,Sucre
+  - Kra11#9-19,Sincelejo,Sucre
+  - Calle11#9-19,Sincelejo,Sucre
+  - Circular11#9-19,Sincelejo,Sucre
+  - Transversal11#9-19,Sincelejo,Sucre
+
+Original: AV19#122-18,Bogotá,Cundinamarca
+  - Avenida19#12218,Bogotá,Cundinamarca
+  - Avenida19Nro122-18,Bogotá,Cundinamarca
+  - Avenida19Numero122-18,Bogotá,Cundinamarca
+  - Avenida19Num122-18,Bogotá,Cundinamarca
+  - Carrera19#122-18,Bogotá,Cundinamarca
+  - Calle19#122-18,Bogotá,Cundinamarca
+  - Circular19#122-18,Bogotá,Cundinamarca
+  - Transversal19#122-18,Bogotá,Cundinamarca
+
