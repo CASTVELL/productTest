@@ -7,16 +7,15 @@ Este proyecto ha sido desarrollado por **Miguel Castellanos** como parte del pro
 El repositorio contiene los entregables y documentación relacionados con la prueba técnica solicitada por el equipo de Wenia.
 
 
-## setup
 
-### Configuración
+## Configuración
 
-Copia el ejemplo de variables de entorno y edítalo:
+### Copia el ejemplo de variables de entorno y edítalo:
 .env.example
 
-En .env debes poner tus AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY y S3_BUCKET
+### aws 
 
-También puedes definir URL_EXTRAER y URL_FILTRAR si no usas los valores por defecto
+En .env debes poner tus AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY y S3_BUCKET
 
 Debes configurar las politicas del s3 buckets de acuerdos a los requerimientos de la prueba
 
