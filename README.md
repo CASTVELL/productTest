@@ -14,38 +14,23 @@ El repositorio contiene los entregables y documentación relacionados con la pru
 
 ### Configuración
 
-/productTest
-├── app/
-│ └── s3upload.py ← aquí está el script
-├── weniafiles/ ← aquí los archivos a subir a S3
-├── .env
+Copia el ejemplo de variables de entorno y edítalo:
+.env.example
 
-Duplica .env.example y renómbralo a .env con tus credenciales y ajustes:
+# En .env debes poner tus AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY y S3_BUCKET
 
-AWS_ACCESS_KEY_ID=TU_ACCESS_KEY_ID
-AWS_SECRET_ACCESS_KEY=TU_SECRET_ACCESS_KEY
-AWS_REGION=us-east-1 # Ajusta tu región
-S3_BUCKET=nombre-de-tu-bucket
-LOCAL_DIR=weniafiles # Carpeta local a escanear
-STATE_FILE=state.json # Archivo para registrar hashes
+# También puedes definir URL_EXTRAER y URL_FILTRAR si no usas los valores por defecto
 
-Guarda el archivo .env en la raíz del proyecto.
+# Debes configurar las politicas del s3 buckets de acuerdos a los requerimientos de la prueba
 
-### Uso con Docker
+Construye y levanta el contenedor Docker:
+docker-compose up --build -d
 
-Construir la imagen
+Verifica que el servicio esté corriendo:
+docker ps
 
-docker build -t s3uploader .
+Inspecciona los logs:
+docker logs -f s3sync
 
-Ejecutar el contenedor
-
-docker run --rm \
- --env-file .env \
- -v $(pwd)/weniafiles:/app/weniafiles \
- s3uploader
-
-Monta la carpeta local weniafiles en /app/weniafiles dentro del contenedor.
-
-Lee variables de entorno desde tu .env.
-
-El contenedor se elimina al terminar (--rm).
+Para detener y eliminar el contenedor:
+docker-compose down

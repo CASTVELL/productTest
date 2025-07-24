@@ -1,0 +1,104 @@
+Original: CRA70#26A-33,Medellín,Antioquia
+  - Carrera70#26A33,Medellín,Antioquia
+  - Kra70#26A-33,Medellín,Antioquia
+
+Original: CL45#80-22,Bogotá,Cundinamarca
+  - Calle45#8022,Bogotá,Cundinamarca
+
+Original: AV30#15-45,Cali,Valle del Cauca
+  - Avenida30#1545,Cali,Valle del Cauca
+
+Original: CRA50#12-08,Barranquilla,Atlántico
+  - Carrera50#1208,Barranquilla,Atlántico
+  - Kra50#12-08,Barranquilla,Atlántico
+
+Original: CL10#5-21,Cartagena,Bolívar
+  - Calle10#521,Cartagena,Bolívar
+
+Original: CRA15#100-32,Bogotá,Cundinamarca
+  - Carrera15#10032,Bogotá,Cundinamarca
+  - Kra15#100-32,Bogotá,Cundinamarca
+
+Original: AV68#80-25,Bogotá,Cundinamarca
+  - Avenida68#8025,Bogotá,Cundinamarca
+
+Original: CRA7#72-20,Bogotá,Cundinamarca
+  - Carrera7#7220,Bogotá,Cundinamarca
+  - Kra7#72-20,Bogotá,Cundinamarca
+
+Original: CL52#73-14,Medellín,Antioquia
+  - Calle52#7314,Medellín,Antioquia
+
+Original: CRA9#23-11,Bucaramanga,Santander
+  - Carrera9#2311,Bucaramanga,Santander
+  - Kra9#23-11,Bucaramanga,Santander
+
+Original: CRA38#16-24,Pereira,Risaralda
+  - Carrera38#1624,Pereira,Risaralda
+  - Kra38#16-24,Pereira,Risaralda
+
+Original: CL19#7-12,Manizales,Caldas
+  - Calle19#712,Manizales,Caldas
+
+Original: CRA5#45-90,SantaMarta,Magdalena
+  - Carrera5#4590,SantaMarta,Magdalena
+  - Kra5#45-90,SantaMarta,Magdalena
+
+Original: AV4#20-33,Pasto,Nariño
+  - Avenida4#2033,Pasto,Nariño
+
+Original: CRA21#14-18,Ibagué,Tolima
+  - Carrera21#1418,Ibagué,Tolima
+  - Kra21#14-18,Ibagué,Tolima
+
+Original: CL12#8-55,Montería,Córdoba
+  - Calle12#855,Montería,Córdoba
+
+Original: CRA27#9-41,Neiva,Huila
+  - Carrera27#941,Neiva,Huila
+  - Kra27#9-41,Neiva,Huila
+
+Original: AV68#63-00,Bogotá,Cundinamarca
+  - Avenida68#6300,Bogotá,Cundinamarca
+
+Original: CRA10#23-05,Tunja,Boyacá
+  - Carrera10#2305,Tunja,Boyacá
+  - Kra10#23-05,Tunja,Boyacá
+
+Original: CL7#34-22,Villavicencio,Meta
+  - Calle7#3422,Villavicencio,Meta
+
+Original: CRA18#12-08,Popayán,Cauca
+  - Carrera18#1208,Popayán,Cauca
+  - Kra18#12-08,Popayán,Cauca
+
+Original: CL8#14-33,Cúcuta,Norte de Santander
+  - Calle8#1433,Cúcuta,Norte de Santander
+
+Original: CRA44#18-10,Valledupar,Cesar
+  - Carrera44#1810,Valledupar,Cesar
+  - Kra44#18-10,Valledupar,Cesar
+
+Original: AV6#10-75,Armenia,Quindío
+  - Avenida6#1075,Armenia,Quindío
+
+Original: CRA26#72-15,Bogotá,Cundinamarca
+  - Carrera26#7215,Bogotá,Cundinamarca
+  - Kra26#72-15,Bogotá,Cundinamarca
+
+Original: CL50#45-60,Medellín,Antioquia
+  - Calle50#4560,Medellín,Antioquia
+
+Original: CRA9#18-21,Yopal,Casanare
+  - Carrera9#1821,Yopal,Casanare
+  - Kra9#18-21,Yopal,Casanare
+
+Original: CL25#16-04,Riohacha,La Guajira
+  - Calle25#1604,Riohacha,La Guajira
+
+Original: CRA11#9-19,Sincelejo,Sucre
+  - Carrera11#919,Sincelejo,Sucre
+  - Kra11#9-19,Sincelejo,Sucre
+
+Original: AV19#122-18,Bogotá,Cundinamarca
+  - Avenida19#12218,Bogotá,Cundinamarca

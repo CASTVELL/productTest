@@ -16,4 +16,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY app ./app
 
 # Ejecutar el script
-ENTRYPOINT ["python", "app/s3upload.py"]
+ENTRYPOINT ["python", "app/main.py"]

@@ -1,0 +1,20 @@
+CRA 38 # 16 - 24, Pereira, Risaralda
+CL 19 # 7 - 12, Manizales, Caldas
+CRA 5 # 45 - 90, Santa Marta, Magdalena
+AV 4 # 20 - 33, Pasto, Nariño
+CRA 21 # 14 - 18, Ibagué, Tolima
+CL 12 # 8 - 55, Montería, Córdoba
+CRA 27 # 9 - 41, Neiva, Huila
+AV 68 # 63 - 00, Bogotá, Cundinamarca
+CRA 10 # 23 - 05, Tunja, Boyacá
+CL 7 # 34 - 22, Villavicencio, Meta
+CRA 18 # 12 - 08, Popayán, Cauca
+CL 8 # 14 - 33, Cúcuta, Norte de Santander
+CRA 44 # 18 - 10, Valledupar, Cesar
+AV 6 # 10 - 75, Armenia, Quindío
+CRA 26 # 72 - 15, Bogotá, Cundinamarca
+CL 50 # 45 - 60, Medellín, Antioquia
+CRA 9 # 18 - 21, Yopal, Casanare
+CL 25 # 16 - 04, Riohacha, La Guajira
+CRA 11 # 9 - 19, Sincelejo, Sucre
+AV 19 # 122 - 18, Bogotá, Cundinamarca
